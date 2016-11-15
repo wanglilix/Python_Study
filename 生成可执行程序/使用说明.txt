@@ -1,0 +1,3 @@
+将py文件拷贝到当前目录
+
+cmd：cd到当前目录 运行命令:setup.py py2exe

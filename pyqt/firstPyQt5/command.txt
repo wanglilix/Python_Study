@@ -1,0 +1,1 @@
+pyuic5 -o firstPyQt5.py firstPyQt5.ui

@@ -1,0 +1,3 @@
+hello中：使用pytho调用了c的64位dll
+dlltest生成dll供testfordll使用
+zdddll生成dll供usesimpledll使用

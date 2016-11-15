@@ -1,0 +1,3 @@
+pyuic5 -o firstPyQt5.py fistPyQt5.ui
+
+pyrcc5 -o pic_rc.py pic.qrc
